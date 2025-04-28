@@ -8,7 +8,6 @@ puntos = np.random.rand(15, 2)
 # Crear diagrama de Voronoi
 vor = Voronoi(puntos)
 
-# Graficar
 fig = voronoi_plot_2d(vor)
 plt.title("Diagrama de Voronoi - Bogotá (simulado)")
 plt.show()
