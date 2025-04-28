@@ -1,5 +1,3 @@
-# Generación de un Autómata Celular 1D simple
-
 import numpy as np
 import matplotlib.pyplot as plt
 
