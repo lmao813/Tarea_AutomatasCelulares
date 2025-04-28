@@ -1,9 +1,9 @@
 # Tarea de Autómatas Celulares
 
 **Curso:** Inteligencia Artificial  
-**Autor:** [Tu Nombre]  
-**Fecha de Entrega:** [Fecha]  
-**Repositorio:** [Enlace a GitHub](https://github.com/tu-usuario/automatas-celulares-tarea)
+**Autor:** [David Camilo Guzmán Guerrero]  
+**Fecha de Entrega:** [Abril 2025]  
+**Repositorio:** [Enlace a GitHub](https://github.com/lmao813/Tarea_AutomatasCelulares)
 
 ## Contenido
 
