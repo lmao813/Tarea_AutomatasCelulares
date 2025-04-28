@@ -1,6 +1,9 @@
-# Tarea de Autómatas Celulares y Mini Robots
+# Tarea de Autómatas Celulares
 
-Este repositorio contiene la solución de los ejercicios propuestos sobre el tema de Autómatas Celulares y Mini Robots.
+**Curso:** Inteligencia Artificial  
+**Autor:** [Tu Nombre]  
+**Fecha de Entrega:** [Fecha]  
+**Repositorio:** [Enlace a GitHub](https://github.com/tu-usuario/automatas-celulares-tarea)
 
 ## Contenido
 
