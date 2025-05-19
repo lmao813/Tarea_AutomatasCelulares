@@ -1,7 +1,7 @@
 # Tarea de Autómatas Celulares
 
-**Curso:** Inteligencia Artificial y Mini-Robots
-**Autor:** [David Camilo Guzmán Guerrero]  
+**Curso:** Inteligencia Artificial y Mini-Robots  
+**Autor:** David Camilo Guzmán Guerrero  
 **Fecha de Entrega:** Abril 2025  
 **Repositorio:** [Enlace a GitHub](https://github.com/lmao813/Tarea_AutomatasCelulares)
 
