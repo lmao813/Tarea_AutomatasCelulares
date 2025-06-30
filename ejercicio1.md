@@ -4,7 +4,7 @@
 * Regla básica: "Apagar las luces al salir"  
   Vecindad: Todos los miembros del hogar.  
   Regla: Si una persona sale de una habitación y no hay nadie más presente, apaga la luz para ahorrar energía.  
-  Analogía con autómata celular (AC): El estado de la luz (encendida o apagada) depende del estado de los “vecinos” (si hay o no personas en la habitación).  
+  Analogía AC: El estado de la luz (encendida o apagada) depende del estado de los “vecinos” (si hay o no personas en la habitación).  
 
 * Regla básica: "Cerrar puertas y ventanas antes de salir"  
   Vecindad: Habitaciones y zonas exteriores.  
