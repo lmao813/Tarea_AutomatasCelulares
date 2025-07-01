@@ -10,3 +10,6 @@
 * Cada celda de Voronoi indica el área de influencia aproximada de una droguería.
 * La superposición con la densidad poblacional muestra si hay zonas con **mucha gente lejos de una droguería**, lo que podría sugerir la necesidad de abrir una nueva.
 
+## 🖥️ Código en Python 
+https://colab.research.google.com/drive/1lWLDi2xWKr6wIRyh7VMT0_75u8vsBGqC#scrollTo=Ed-SEh_8afRJ
+
