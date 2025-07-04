@@ -24,7 +24,7 @@ Cada celda puede estar en uno de tres estados:
 https://colab.research.google.com/drive/1lWLDi2xWKr6wIRyh7VMT0_75u8vsBGqC?usp=sharing
 
 ## ✅ Resultados
-![image](https://github.com/user-attachments/assets/42169b7a-29bb-40a7-b888-277d5ee6fbf4)
+![image](https://github.com/user-attachments/assets/099b5989-b5e3-46a7-84ca-92cc22d011cc)
 ![image](https://github.com/user-attachments/assets/0c165424-df2d-4a35-9f68-9715f44b8f48)
 ![image](https://github.com/user-attachments/assets/749a1894-d870-4c9f-a56f-4dab86b61e14)
 ![image](https://github.com/user-attachments/assets/268eeb82-ca92-4dcf-9e6e-dd543c74addb)
