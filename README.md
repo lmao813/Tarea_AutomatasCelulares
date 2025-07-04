@@ -12,4 +12,4 @@
 - **Ejercicio 3:** Cobertura de droguerías en Tocancipá. Uso de un diagrama de Voronoi para analizar la localización de droguerías en Tocancipá, Cundinamarca. Inclusión de la densidad poblacional para observar áreas posiblemente desatendidas.
   - **📌 Nota:** Las coordenadas utilizadas para el análisis de la ciudad corresponden a droguerías reales en Tocancipá, adaptadas para generar el diagrama de Voronoi con orientación geográfica correcta. El script incluye simulación de habitantes para observar posibles regiones con baja cobertura farmacéutica.
 
-- **Ejercicio 4:** Impresión 3D de un autómata celular. Generación de un autómata celular 1D y preparación del archivo para impresión 3D (pendiente).
+- **Ejercicio 4:** Impresión 3D de un autómata celular. Generación de un autómata celular 1D y preparación del archivo.
