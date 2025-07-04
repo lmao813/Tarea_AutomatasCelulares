@@ -1,7 +1,7 @@
 # 📝 Localización de droguería en Tocancipá utilizando diagramas de Voronoi
 
 ## 📍 Datos simulados
-* Se ubican **10 droguerías** aproximadamente en el centro urbano del municipio (coordenadas ficticias en una malla 100x100).
+* Se ubican **10 droguerías** aproximadamente en el centro urbano del municipio.
 * Se simula una población de **5000 habitantes**, con:
   - **80%** concentrados en el núcleo urbano.
   - **20%** distribuidos en la periferia, para reflejar la densidad real (~148 hab/km²).
