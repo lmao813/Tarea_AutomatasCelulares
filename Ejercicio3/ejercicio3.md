@@ -13,3 +13,7 @@
 ## 🖥️ Código en Python 
 https://colab.research.google.com/drive/1lWLDi2xWKr6wIRyh7VMT0_75u8vsBGqC#scrollTo=Ed-SEh_8afRJ
 
+## ✅ Resultados
+![image](https://github.com/user-attachments/assets/c9bbfd30-dd43-4871-862e-bce455124510)
+![image](https://github.com/user-attachments/assets/0513060e-3b84-4b53-8111-9b35b74ac730)
+
