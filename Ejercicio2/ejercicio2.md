@@ -22,3 +22,16 @@ Cada celda puede estar en uno de tres estados:
 
 ## 🖥️ Código en Python 
 https://colab.research.google.com/drive/1lWLDi2xWKr6wIRyh7VMT0_75u8vsBGqC?usp=sharing
+
+## ✅ Resultados
+![image](https://github.com/user-attachments/assets/42169b7a-29bb-40a7-b888-277d5ee6fbf4)
+![image](https://github.com/user-attachments/assets/0c165424-df2d-4a35-9f68-9715f44b8f48)
+![image](https://github.com/user-attachments/assets/749a1894-d870-4c9f-a56f-4dab86b61e14)
+![image](https://github.com/user-attachments/assets/268eeb82-ca92-4dcf-9e6e-dd543c74addb)
+![image](https://github.com/user-attachments/assets/c9512f6c-2958-498c-b125-c10bfab5df0b)
+![image](https://github.com/user-attachments/assets/54cf47f0-a4a7-4033-b325-65f5e21340cc)
+
+
+
+
+
