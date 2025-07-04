@@ -11,4 +11,4 @@ Ideal para ver cómo reglas simples generan estructuras complejas, que pueden us
 Primero generamos el autómata celular 1D y lo graficamos.
 Luego dejamos pendiente la conversión a .stl (que se podria realizar con numpy-stl o trimesh).
 
-![image](https://github.com/user-attachments/assets/a1312fc3-9dc5-4be8-a4f5-ddd93b8d9cb6)
+https://colab.research.google.com/drive/1lWLDi2xWKr6wIRyh7VMT0_75u8vsBGqC#scrollTo=RsvjMPZ61MF0
