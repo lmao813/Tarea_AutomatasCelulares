@@ -1,8 +1,8 @@
 # 🤖 Tarea de Autómatas Celulares
-**Curso:** Inteligencia Artificial y Mini-Robots
-**Autor:** David Camilo Guzmán Guerrero
-**Fecha de Entrega:** Junio 2025
-**Repositorio:** [Enlace a GitHub](https://github.com/lmao813/Tarea_AutomatasCelulares)
+**Curso:** Inteligencia Artificial y Mini-Robots  
+**Autor:** David Camilo Guzmán Guerrero  
+**Fecha de Entrega:** Junio 2025  
+**Repositorio:** [Enlace a GitHub](https://github.com/lmao813/Tarea_AutomatasCelulares)  
 
 ## 📚 Contenido
 - **Ejercicio 1:** Reglas básicas de comportamiento. Observación de comportamientos en tres entornos: casa, universidad y transporte. Definición de reglas básicas para cada contexto, usando una analogía con autómatas celulares.  
